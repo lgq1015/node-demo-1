@@ -31,7 +31,7 @@ var server = http.createServer(function(request, response){
 
 <head>  
   <meta charset="utf-8">
-  <title>JS Bin</title>
+  <title>桂萁测试</title>
   <link rel="stylesheet" href="/x">
 </head>
 
